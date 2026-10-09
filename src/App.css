@@ -1,0 +1,8 @@
+body {
+  background-color: #f5f6f8;
+}
+
+.navbar .nav-link.active {
+  font-weight: bold;
+  color: #fff !important;
+}
